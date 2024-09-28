@@ -1,0 +1,8 @@
+[en]
+
+ALREADY_HAVE_MAX_HP_MSG = ^4%s ^1You already have ^3MAXIMUM ^1(%d) ^4HP!
+NOT_HAVE_ENOUGH_MONEY_TO_CALL_MEDIC_MSG = ^4%s ^1You do not have enough ^3money ^1to call ^4medic! - ^1Required: ^3%d$
+RECENTLY_CALLED_COOLDOWN_MSG = ^4%s ^1You just recently called ^4MEDIC^1, you need to wait ^3%i ^1sec(s)^4!
+MEDIC_SYSTEM_DISABLED_MSG = ^4%s ^1MEDIC System is ^4DISABLED^3!^1, Try again later^3...
+MEDIC_NO_ACCESS_MSG = ^4%s ^1Sorry, you do not have ^4access ^1to use the ^4medic ^1command^4!
+MEDIC_LIMIT_REACHED_MSG = ^4%s ^1You have reached the ^4maximum ^1limit (%d) to use the ^3medic ^1command^4!
